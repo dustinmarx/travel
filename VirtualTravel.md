@@ -26,8 +26,22 @@ during the current [COVID-19](https://www.cdc.gov/coronavirus/2019-nCoV/index.ht
 
 ## National and State Parks
 * Google Arts & Culture: [The Hidden Worlds of the National Parks](https://artsandculture.withgoogle.com/en-us/national-parks-service/)
+* [Arches National Park](https://www.nps.gov/arch/index.htm): [Webcams](https://www.nps.gov/arch/learn/photosmultimedia/webcams.htm) and [Videos](https://www.nps.gov/arch/learn/photosmultimedia/multimedia.htm)
 * [Bryce Canyon National Park](https://www.nps.gov/brca/index.htm): [Sunset Point Tour](https://artsandculture.withgoogle.com/en-us/national-parks-service/bryce-canyon/sunset-point-tour)
+* [Death Valley National Park](https://www.nps.gov/deva/index.htm): [Videos](https://www.nps.gov/deva/learn/photosmultimedia/videos.htm) and [Photo Gallery](https://www.nps.gov/deva/learn/photosmultimedia/photogallery.htm)
+* [Everglades National Park](https://www.nps.gov/ever/index.htm): [Photo Gallery](https://www.nps.gov/ever/learn/photosmultimedia/photogallery.htm) and [Webcams](https://www.nps.gov/ever/learn/photosmultimedia/webcams.htm)
+* [Garden of the Gods](https://www.gardenofgods.com/): [Photo Gallery](https://www.gardenofgods.com/your-visit/visit1/gallery) and [Webcam](https://www.gardenofgods.com/your-visit-mobile/live-web-cam)
+* [Glacier National Park](https://www.nps.gov/glac/index.htm): [Webcams](https://www.nps.gov/glac/learn/photosmultimedia/webcams.htm)
+* [Grand Canyon National Park](https://www.nps.gov/grca/index.htm): [Virtual Tours](https://www.nps.gov/grca/learn/photosmultimedia/virtualtour.htm)
+* [Grand Teton National Park](https://www.nps.gov/grte/index.htm): [Virtual Tours](https://www.nps.gov/grte/learn/photosmultimedia/virtualtour.htm)
+* [Kenai Fjords National Park](https://www.nps.gov/kefj/index.htm): [Kenai Fjords Exit Glacier](https://artsandculture.withgoogle.com/en-us/national-parks-service/kenai-fjords/exit-glacier-tour)
+* [Mount Rushmore National Memorial](https://www.nps.gov/moru/index.htm): [Virtual Tour](https://www.nps.gov/moru/learn/photosmultimedia/virtual-tour.htm), [Photo Gallery](https://www.nps.gov/moru/learn/photosmultimedia/photogallery.htm), and [Webcams](https://www.nps.gov/moru/learn/photosmultimedia/webcams.htm)
+* [Rocky Mountain National Park](https://www.nps.gov/romo/index.htm): [Webcams](https://www.nps.gov/romo/learn/photosmultimedia/webcams.htm) and [Photo Gallery](https://www.nps.gov/romo/learn/photosmultimedia/photogallery.htm)
+* [Sequoia National Park](https://www.nps.gov/seki/index.htm): [Video Tours](https://www.nps.gov/seki/learn/photosmultimedia/ehike.htm) and [Webcams](https://www.nps.gov/seki/learn/photosmultimedia/webcams.htm)
+* [Virgin Islands National Park](https://www.nps.gov/viis/index.htm): [Photo Gallery](https://www.nps.gov/viis/learn/photosmultimedia/photo-gallery.htm) 
 * [Volcanoes National Park](https://www.nps.gov/havo/index.htm): [Nahuku Lava Tube Tour](https://artsandculture.withgoogle.com/en-us/national-parks-service/hawaii-volcanoes/nahuku-lava-tube-tour)
+* [Yellowstone National Park](https://www.nps.gov/yell/index.htm): [Virtual Tours](https://www.nps.gov/yell/learn/photosmultimedia/virtualtours.htm), [Videos](https://www.nps.gov/yell/learn/photosmultimedia/videos.htm) and [Webcams](https://www.nps.gov/yell/learn/photosmultimedia/webcams.htm)
+* [Yosemite National Park](https://www.nps.gov/yose/index.htm): [Webcams](https://www.nps.gov/yose/learn/photosmultimedia/webcams.htm) and [Photo Gallery](https://www.nps.gov/yose/learn/photosmultimedia/photogallery.htm)
 
 ## Concerts and Operas ([#Playon](https://twitter.com/hashtag/playon))
 * [Berlin Philharmonic](https://www.digitalconcerthall.com/en/home): [Digital Concert Hall](https://www.digitalconcerthall.com/en/live)
@@ -43,4 +57,5 @@ during the current [COVID-19](https://www.cdc.gov/coronavirus/2019-nCoV/index.ht
 
 
 ## Additional Resoures
-* 20 [Amazing Places You Can Visit Without Leaving Home](https://www.travelzoo.com/blog/20-amazing-places-you-can-visit-without-leaving-home/) (TravelZoo)
+* [20 Amazing Places You Can Visit Without Leaving Home](https://www.travelzoo.com/blog/20-amazing-places-you-can-visit-without-leaving-home/) (TravelZoo)
+* [The Best National Parks to Visit — Virtually](https://www.travelzoo.com/blog/the-best-national-parks-to-visit-virtually/)
