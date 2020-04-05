@@ -63,5 +63,10 @@ during the current [COVID-19](https://www.cdc.gov/coronavirus/2019-nCoV/index.ht
 
 ## Additional Resoures
 * [20 Amazing Places You Can Visit Without Leaving Home](https://www.travelzoo.com/blog/20-amazing-places-you-can-visit-without-leaving-home/) (TravelZoo)
-* [The Best National Parks to Visit — Virtually](https://www.travelzoo.com/blog/the-best-national-parks-to-visit-virtually/)
-* [9 National Parks You Can Virtually Tour from Your Couch](https://www.travelpirates.com/captains-log/9-national-parks-you-can-virtually-tour_12974)
+* [The Best National Parks to Visit — Virtually](https://www.travelzoo.com/blog/the-best-national-parks-to-visit-virtually/) (TravelZoo)
+* [9 National Parks You Can Virtually Tour from Your Couch](https://www.travelpirates.com/captains-log/9-national-parks-you-can-virtually-tour_12974) (Travel Pirates)
+* [11 ways to travel the world without leaving your sofa](https://thepointsguy.com/guide/travel-from-home-virtual-experiences/) (The Points Guy)
+* [12 Museums from Around the World That You Can Tour Virtually](https://www.travelandleisure.com/attractions/museums-galleries/museums-with-virtual-tours)
+* [You can virtually tour these 20 landmarks without leaving your couch](https://www.msn.com/en-in/lifestyle/travel/you-can-virtually-tour-these-20-landmarks-without-leaving-your-couch)
+* [How To Go On A South African Safari Without Leaving Your Couch](https://www.forbes.com/sites/katherineparkermagyar/2020/03/30/how-to-go-on-a-south-african-safari-without-leaving-your-couch/#7120555f777a)
+* [The Best Virtual Travel Experiences to Cure Wanderlust](https://www.buzzfeed.com/annahaines/virtual-travel-experiences)
