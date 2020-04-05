@@ -26,14 +26,19 @@ during the current [COVID-19](https://www.cdc.gov/coronavirus/2019-nCoV/index.ht
 
 ## National and State Parks
 * Google Arts & Culture: [The Hidden Worlds of the National Parks](https://artsandculture.withgoogle.com/en-us/national-parks-service/)
+* Goolge Earth: [National Parks of the United States](https://earth.google.com/web/data=CiQSIhIgMzVhNjc1YmQ0NjVjMTFlOTg0Yjg1NTMyNWRjMDk2MzQ)
+* [Acadia National Park](https://www.nps.gov/acad/index.htm): [Virtual Tour](https://www.nps.gov/acad/learn/photosmultimedia/virtualtour.htm), [Photo Gallery](https://www.nps.gov/acad/learn/photosmultimedia/photogallery.htm), and [Webcams](https://www.nps.gov/acad/learn/photosmultimedia/webcams.htm)
 * [Arches National Park](https://www.nps.gov/arch/index.htm): [Webcams](https://www.nps.gov/arch/learn/photosmultimedia/webcams.htm) and [Videos](https://www.nps.gov/arch/learn/photosmultimedia/multimedia.htm)
 * [Bryce Canyon National Park](https://www.nps.gov/brca/index.htm): [Sunset Point Tour](https://artsandculture.withgoogle.com/en-us/national-parks-service/bryce-canyon/sunset-point-tour)
+* [Carlsbad Caverns National Park](https://www.nps.gov/cave/index.htm): [Photo Gallery](https://www.nps.gov/cave/learn/photosmultimedia/photogallery.htm)
 * [Death Valley National Park](https://www.nps.gov/deva/index.htm): [Videos](https://www.nps.gov/deva/learn/photosmultimedia/videos.htm) and [Photo Gallery](https://www.nps.gov/deva/learn/photosmultimedia/photogallery.htm)
+* [Dry Tortugas National Park](https://www.nps.gov/drto/index.htm): [Videos](https://www.nps.gov/drto/learn/photosmultimedia/videos.htm)
 * [Everglades National Park](https://www.nps.gov/ever/index.htm): [Photo Gallery](https://www.nps.gov/ever/learn/photosmultimedia/photogallery.htm) and [Webcams](https://www.nps.gov/ever/learn/photosmultimedia/webcams.htm)
 * [Garden of the Gods](https://www.gardenofgods.com/): [Photo Gallery](https://www.gardenofgods.com/your-visit/visit1/gallery) and [Webcam](https://www.gardenofgods.com/your-visit-mobile/live-web-cam)
 * [Glacier National Park](https://www.nps.gov/glac/index.htm): [Webcams](https://www.nps.gov/glac/learn/photosmultimedia/webcams.htm)
 * [Grand Canyon National Park](https://www.nps.gov/grca/index.htm): [Virtual Tours](https://www.nps.gov/grca/learn/photosmultimedia/virtualtour.htm)
 * [Grand Teton National Park](https://www.nps.gov/grte/index.htm): [Virtual Tours](https://www.nps.gov/grte/learn/photosmultimedia/virtualtour.htm)
+* [Joshua Tree National Park](https://www.nps.gov/jotr/index.htm): [Photo Gallery](https://www.nps.gov/jotr/learn/photosmultimedia/photogallery.htm)
 * [Kenai Fjords National Park](https://www.nps.gov/kefj/index.htm): [Kenai Fjords Exit Glacier](https://artsandculture.withgoogle.com/en-us/national-parks-service/kenai-fjords/exit-glacier-tour)
 * [Mount Rushmore National Memorial](https://www.nps.gov/moru/index.htm): [Virtual Tour](https://www.nps.gov/moru/learn/photosmultimedia/virtual-tour.htm), [Photo Gallery](https://www.nps.gov/moru/learn/photosmultimedia/photogallery.htm), and [Webcams](https://www.nps.gov/moru/learn/photosmultimedia/webcams.htm)
 * [Rocky Mountain National Park](https://www.nps.gov/romo/index.htm): [Webcams](https://www.nps.gov/romo/learn/photosmultimedia/webcams.htm) and [Photo Gallery](https://www.nps.gov/romo/learn/photosmultimedia/photogallery.htm)
@@ -59,3 +64,4 @@ during the current [COVID-19](https://www.cdc.gov/coronavirus/2019-nCoV/index.ht
 ## Additional Resoures
 * [20 Amazing Places You Can Visit Without Leaving Home](https://www.travelzoo.com/blog/20-amazing-places-you-can-visit-without-leaving-home/) (TravelZoo)
 * [The Best National Parks to Visit — Virtually](https://www.travelzoo.com/blog/the-best-national-parks-to-visit-virtually/)
+* [9 National Parks You Can Virtually Tour from Your Couch](https://www.travelpirates.com/captains-log/9-national-parks-you-can-virtually-tour_12974)
