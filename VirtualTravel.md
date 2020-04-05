@@ -29,11 +29,14 @@ during the current [COVID-19](https://www.cdc.gov/coronavirus/2019-nCoV/index.ht
 * [Bryce Canyon National Park](https://www.nps.gov/brca/index.htm): [Sunset Point Tour](https://artsandculture.withgoogle.com/en-us/national-parks-service/bryce-canyon/sunset-point-tour)
 * [Volcanoes National Park](https://www.nps.gov/havo/index.htm): [Nahuku Lava Tube Tour](https://artsandculture.withgoogle.com/en-us/national-parks-service/hawaii-volcanoes/nahuku-lava-tube-tour)
 
-## Concerts and Operas
+## Concerts and Operas ([#Playon](https://twitter.com/hashtag/playon))
 * [Berlin Philharmonic](https://www.digitalconcerthall.com/en/home): [Digital Concert Hall](https://www.digitalconcerthall.com/en/live)
+* [Colorado Symphony](https://coloradosymphony.org/)
+  * [#PlayOn Colorado Symphony - COVID-19 Pandemic](https://www.youtube.com/watch?v=p09hpKAv9Jc)
 * [The Metropolitan Opera](https://www.metopera.org/): [Nightly Met Opera Streams](https://www.metopera.org/user-information/nightly-met-opera-streams/)
 * [Wiener Staatsoper](https://www.wiener-staatsoper.at/en/): [Live at Home](https://www.staatsoperlive.com/)
 * [Sydney Oprera House](https://www.sydneyoperahouse.com/): [Digital Season](https://www.sydneyoperahouse.com/digital.html) and [Tour the Sydney Opera House in 360°](https://www.youtube.com/watch?v=_hunddVoMjo)
+* [LiveNation](https://www.livenation.com/): [Live from Home](https://www.livenation.com/livefromhome)
 
 ## Other
 * [Street Art with Google Art Project](https://streetart.withgoogle.com/en/)
