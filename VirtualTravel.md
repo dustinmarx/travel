@@ -1,10 +1,11 @@
 This page contains links to destinations and attractions that can be experienced virtually. Some of these are only temporarily available
 during the current [COVID-19](https://www.cdc.gov/coronavirus/2019-nCoV/index.html) epedemic.
 
-## Architecture and Landmarks
+## Architecture and Historical Landmarks
 * [Great Wall of China](https://www.chinahighlights.com/greatwall/): [Great Wall of China Travel Guide](https://www.thechinaguide.com/destination/great-wall-of-china)
 * [Taj Mahal, Agra, India in 4K Ultra HD](https://www.youtube.com/watch?v=665AHTNpf2o)
 * [Versailles](http://en.chateauversailles.fr/): [Versailles: The Palace is Yours](https://artsandculture.google.com/project/versailles)
+* [Machu Picchu](https://artsandculture.google.com/streetview/santuario-historico-de-machu-picchu-casa-de-los-nobles/aQFExMrHgP-cnQ) 
 
 ## Museums ([#MuseumFromHome](https://twitter.com/hashtag/museumfromhome?lang=en))
 * [The British Museum](https://blog.britishmuseum.org/): [Museum of the World](https://britishmuseum.withgoogle.com/)
@@ -61,7 +62,7 @@ during the current [COVID-19](https://www.cdc.gov/coronavirus/2019-nCoV/index.ht
 * [Street Art with Google Art Project](https://streetart.withgoogle.com/en/)
 
 
-## Additional Resoures
+## Additional Resources
 * [20 Amazing Places You Can Visit Without Leaving Home](https://www.travelzoo.com/blog/20-amazing-places-you-can-visit-without-leaving-home/) (TravelZoo)
 * [The Best National Parks to Visit — Virtually](https://www.travelzoo.com/blog/the-best-national-parks-to-visit-virtually/) (TravelZoo)
 * [9 National Parks You Can Virtually Tour from Your Couch](https://www.travelpirates.com/captains-log/9-national-parks-you-can-virtually-tour_12974) (Travel Pirates)
@@ -70,3 +71,4 @@ during the current [COVID-19](https://www.cdc.gov/coronavirus/2019-nCoV/index.ht
 * [You can virtually tour these 20 landmarks without leaving your couch](https://www.msn.com/en-in/lifestyle/travel/you-can-virtually-tour-these-20-landmarks-without-leaving-your-couch)
 * [How To Go On A South African Safari Without Leaving Your Couch](https://www.forbes.com/sites/katherineparkermagyar/2020/03/30/how-to-go-on-a-south-african-safari-without-leaving-your-couch/#7120555f777a)
 * [The Best Virtual Travel Experiences to Cure Wanderlust](https://www.buzzfeed.com/annahaines/virtual-travel-experiences)
+* [Visit Machu Picchu without Stepping Outside!](https://www.travelpirates.com/captains-log/peru-machu-picchu-visit-from-the-sofa_13011) (TravelPirates)
