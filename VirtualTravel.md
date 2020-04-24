@@ -21,6 +21,14 @@ during the current [COVID-19](https://www.cdc.gov/coronavirus/2019-nCoV/index.ht
 * [Wild Earth Live Safari](https://www.facebook.com/WildEarthLIVE/videos/904091053345547/)
 * [National Marine Sanctuaries](https://sanctuaries.noaa.gov/): [Virtual Dives](https://sanctuaries.noaa.gov/vr/)
 
+## City Tours
+* [Amsterdam (Kayak Virtual Guide)](https://www.kayak.com/c/escape/virtual-guides/amsterdam/)
+* [London (Kayak Virtual Guide)](https://www.kayak.com/c/escape/virtual-guides/london/)
+* [Mexico City (Kayak Virtual Guide)](https://www.kayak.com/c/escape/virtual-guides/mexico-city/)
+* [Paris (Kayak Virtual Guide)](https://www.kayak.com/c/escape/virtual-guides/paris/)
+* [Rio de Janeiro (Kayak Virtual Guide)](https://www.kayak.com/c/escape/virtual-guides/rio-de-janeiro/)
+* [Sydney (Kayak Virtual Guide)](https://www.kayak.com/c/escape/virtual-guides/sydney/)
+
 ## Northern Lights
 * [Churchill Northern Studies Center in Churchill, Manitoba](https://churchillscience.ca/): [Aurora Boeralis: Nothern Lights](https://explore.org/livecams/aurora-borealis-northern-lights/northern-lights-cam)
 * [Iceland Aurora Films](https://vimeo.com/icelandaurorafilms/about)
@@ -63,6 +71,7 @@ during the current [COVID-19](https://www.cdc.gov/coronavirus/2019-nCoV/index.ht
 
 
 ## Additional Resources
+* [Virtual Vacations](https://www.kayak.com/c/escape/virtual-guides/) ([Kayak](https://www.kayak.com/))
 * [20 Amazing Places You Can Visit Without Leaving Home](https://www.travelzoo.com/blog/20-amazing-places-you-can-visit-without-leaving-home/) (TravelZoo)
 * [The Best National Parks to Visit — Virtually](https://www.travelzoo.com/blog/the-best-national-parks-to-visit-virtually/) (TravelZoo)
 * [9 National Parks You Can Virtually Tour from Your Couch](https://www.travelpirates.com/captains-log/9-national-parks-you-can-virtually-tour_12974) (Travel Pirates)
