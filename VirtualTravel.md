@@ -10,7 +10,7 @@ during the current [COVID-19](https://www.cdc.gov/coronavirus/2019-nCoV/index.ht
 ## Museums ([#MuseumFromHome](https://twitter.com/hashtag/museumfromhome?lang=en))
 * [The British Museum](https://blog.britishmuseum.org/): [Museum of the World](https://britishmuseum.withgoogle.com/)
   * [How to explore the British Museum from home](https://blog.britishmuseum.org/how-to-explore-the-british-museum-from-home/)
-* [Louvre](https://www.louvre.fr/en): [Online Tours(https://www.louvre.fr/en/visites-en-ligne)
+* [Louvre](https://www.louvre.fr/en): [Online Tours](https://www.louvre.fr/en/visites-en-ligne)
 * [Museum of Modern Art](https://www.moma.org/) ([MoMA](https://artsandculture.google.com/partner/moma-the-museum-of-modern-art)): [The Collection](https://www.moma.org/collection/)
 * [National Museum of Natural History](https://naturalhistory.si.edu/): [Virtual Tour](https://naturalhistory.si.edu/visit/virtual-tour)
 * [Vatican Museum](http://www.museivaticani.va/content/museivaticani/en.html): [Virtual tours](http://www.museivaticani.va/content/museivaticani/en/collezioni/musei/tour-virtuali-elenco.1.html)
@@ -72,7 +72,8 @@ during the current [COVID-19](https://www.cdc.gov/coronavirus/2019-nCoV/index.ht
 
 
 ## Additional Resources
-* [Virtual Vacations](https://www.kayak.com/c/escape/virtual-guides/) ([Kayak](https://www.kayak.com/))
+* [Virtual Vacations](https://www.kayak.com/c/escape/virtual-guides/) ([Kayak](https://www.kayak.com/)) ([Marriott Bonvoy Traveler](https://traveler.marriott.com/))
+* [Level Up Your Armchair Travel: Go on a Virtual World Tour](https://traveler.marriott.com/tips-and-trends/armchair-travel-virtual-travel/)
 * [20 Amazing Places You Can Visit Without Leaving Home](https://www.travelzoo.com/blog/20-amazing-places-you-can-visit-without-leaving-home/) (TravelZoo)
 * [The Best National Parks to Visit — Virtually](https://www.travelzoo.com/blog/the-best-national-parks-to-visit-virtually/) (TravelZoo)
 * [9 National Parks You Can Virtually Tour from Your Couch](https://www.travelpirates.com/captains-log/9-national-parks-you-can-virtually-tour_12974) (Travel Pirates)
