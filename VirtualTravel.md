@@ -14,6 +14,7 @@ during the current [COVID-19](https://www.cdc.gov/coronavirus/2019-nCoV/index.ht
 * [Museum of Modern Art](https://www.moma.org/) ([MoMA](https://artsandculture.google.com/partner/moma-the-museum-of-modern-art)): [The Collection](https://www.moma.org/collection/)
 * [National Museum of Natural History](https://naturalhistory.si.edu/): [Virtual Tour](https://naturalhistory.si.edu/visit/virtual-tour)
 * [Vatican Museum](http://www.museivaticani.va/content/museivaticani/en.html): [Virtual tours](http://www.museivaticani.va/content/museivaticani/en/collezioni/musei/tour-virtuali-elenco.1.html)
+* [Virtual San Diego Museum of Art](https://www.sdmart.org/virtual-sdma/)
 
 ## Zoos, Aquariums, Safaris, and Dives
 * [Monterey Bay Aquarium](https://www.montereybayaquarium.org/): [Live cams](https://www.montereybayaquarium.org/animals/live-cams)
