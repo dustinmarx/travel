@@ -30,6 +30,9 @@ during the current [COVID-19](https://www.cdc.gov/coronavirus/2019-nCoV/index.ht
 * [Rio de Janeiro (Kayak Virtual Guide)](https://www.kayak.com/c/escape/virtual-guides/rio-de-janeiro/)
 * [Sydney (Kayak Virtual Guide)](https://www.kayak.com/c/escape/virtual-guides/sydney/)
 
+## Earth
+* [Planet Earth](https://www.youtube.com/watch?v=BdVii7FPsYY&feature=youtu.be) ([Devinsupertramp](https://www.youtube.com/channel/UCwgURKfUA7e0Z7_qE3TvBFQ))
+
 ## Northern Lights
 * [Churchill Northern Studies Center in Churchill, Manitoba](https://churchillscience.ca/): [Aurora Boeralis: Nothern Lights](https://explore.org/livecams/aurora-borealis-northern-lights/northern-lights-cam)
 * [Iceland Aurora Films](https://vimeo.com/icelandaurorafilms/about)
