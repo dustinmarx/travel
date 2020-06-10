@@ -88,3 +88,4 @@ during the current [COVID-19](https://www.cdc.gov/coronavirus/2019-nCoV/index.ht
 * [The Best Virtual Travel Experiences to Cure Wanderlust](https://www.buzzfeed.com/annahaines/virtual-travel-experiences)
 * [Visit Machu Picchu without Stepping Outside!](https://www.travelpirates.com/captains-log/peru-machu-picchu-visit-from-the-sofa_13011) (TravelPirates)
 * [Enjoy Culture at Home With Instagram, Twitter, These Hashtags, and More](https://www.tiqets.com/blog/culture-at-home-with-social-media/?) ([Tiquets](https://www.tiqets.com/en/))
+* [Bing Search Museums that Offer Virtual Tours](https://www.bing.com/search?q=museum%20virtual%20tours&form=M401DI&OCID=M401DI)
